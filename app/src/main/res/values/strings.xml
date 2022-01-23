@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeUI - Dating App</string>
+    <string name="like_button">Like</string>
+    <string name="about_text">About</string>
+</resources>
